@@ -430,6 +430,7 @@
         <!--item>@string/battery_style_land</item-->
         <item>@string/battery_style_circle</item>
         <item>@string/battery_style_dotted_circle</item>
+        <item>@string/battery_style_square</item>
         <item>@string/battery_style_text</item>
         <item>@string/battery_style_hidden</item>
     </string-array>
@@ -439,6 +440,7 @@
         <!--item>1</item-->
         <item>2</item>
         <item>3</item>
+        <item>4</item>
         <item>5</item>
         <item>6</item>
     </string-array>
@@ -487,7 +489,6 @@
         <item>@string/qs_tile_animation_style_off</item>
         <item>@string/qs_tile_animation_style_flip</item>
         <item>@string/qs_tile_animation_style_rotate</item>
-    </string-array>
 
     <string-array name="qs_tile_animation_style_values" translatable="false">
         <item>0</item>
@@ -529,6 +530,7 @@
         <item>5</item>
         <item>6</item>
         <item>7</item>
+        <item>8</item>
     </string-array>
 
 </resources>
